@@ -1,11 +1,9 @@
-CMPUT404-assignment-ajax
+CMPUT404-assignment-ajax - Ahmed Ghoneim
 ==============================
 
 CMPUT404-assignment-ajax
 
-See requirements.org (plain-text) for a description of the project.
-
-Make a shared state AJAX drawing program
+The User needs to click 3 times on the same point for the color to change .Then drag the mouse without letting the left button go to keep the same color.<br>
 
 Contributors / Licensing
 ========================
